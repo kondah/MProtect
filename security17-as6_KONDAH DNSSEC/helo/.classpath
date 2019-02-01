@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/dnsjava-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/dnssecjava-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/slf4j-api-1.7.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/google-http-client-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/netki-partner-client-0.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/wallet-name-resolver-0.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/guava-15.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAID/Desktop/subethasmtp-3.1.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
